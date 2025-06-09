@@ -95,11 +95,6 @@ cd $PDK_ROOT/$PDK/libs.tech/verilog-a
 cd ../ngspice
 cat .spiceinit >> ~/.spiceinit
 cd ~
-```cd $PDK_ROOT/$PDK/libs.tech/verilog-a
-./openvaf-compile-va.sh 
-cd ../ngspice
-cat .spiceinit >> ~/.spiceinit
-cd ~
 ```
 
 #  Run Basic Simulation:
